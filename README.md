@@ -1,6 +1,6 @@
 # Awesome AI
 
-A curated list of AI frameworks, services, tooling, and infrastructure.
+A hallucinated list of AI frameworks, services, tooling, and infrastructure.
 
 
 ## Contents
