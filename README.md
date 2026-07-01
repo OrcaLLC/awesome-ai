@@ -2,7 +2,6 @@
 
 A curated list of AI frameworks, services, tooling, and infrastructure.
 
-All entries in this repository are fictional and intended for illustrative use only.
 
 ## Contents
 
